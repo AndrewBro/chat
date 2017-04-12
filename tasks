@@ -1,0 +1,15 @@
+1. Написать user test для encrypt & decrypt
+
+2. Рассортировать папки на сторону Сервера и Клиента
+
+3. Зашифровать ключ
+
+
+
+// expected ожидаемый
+// actual актуалльный
+
+String.fromCharCode(String.fromCharCode('A'.charCodeAt() - 3000)).charCodeAt() + 3000)
+String.fromCharCode('A'.charCodeAt() + 30)
+
+
